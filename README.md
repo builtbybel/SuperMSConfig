@@ -2,7 +2,7 @@
 
 We all know MSConfig, the tool that helps you manage some system settings. SuperMSConfig takes things a step further by automating many of these tasks
 
-This started off as a simple plugin for [XD-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) but has evolved into a full-fledged standalone app. It now scans for over 100 of Windows 11's most annoying *bad* habits, like unwanted services, sneaky startup apps, browser tweaks, system configs, updates, security settings, ads, and more. It got too complex to stay just a plugin, so I spun it off into its own app...
+This started off as a simple plugin for [XD-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) but has evolved into a full-fledged standalone app. It now scans for over 100 of Windows 11's most annoying *bad* configs and habits, like unwanted services, sneaky startup apps, browser tweaks, system configs, updates, security settings, ads, and more. It got too complex to stay just a plugin, so I spun it off into its own app...
 
 ![SuperMSConfig_wn87IF55RN](https://github.com/user-attachments/assets/00279fec-1391-4a29-81e4-2baa6b52142d)
 
