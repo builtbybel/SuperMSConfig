@@ -1,4 +1,4 @@
-# WindowsHabitChecker
+# SuperMSConfig
 
 ![syshabit_rrUlumnpOE](https://github.com/user-attachments/assets/81d4f5c1-b6ac-432b-8040-5a45d3d36817)
 
