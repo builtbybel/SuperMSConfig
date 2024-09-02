@@ -4,7 +4,7 @@ We all know MSConfig, the tool that helps you manage some system settings. Super
 
 SuperMSConfig is an advanced and fully automated alternative to the traditional MSConfig tool, designed specifically for Windows 11. Unlike the classic MSConfig, which focuses on modifying startup parameters or disabling device drivers, SuperMSConfig takes a broader approach as a comprehensive system checker. It scans your system for over 100 of Windows 11's most annoying configurations and bad habits, such as unwanted services, sneaky startup apps, intrusive browser tweaks, system configurations, unnecessary updates, security settings, ads, and more.
 
-SuperMSConfig started out as a simple plugin for XD-AntiSpy, but it grew into its own app because it became more complex and feature-packed. While XD-AntiSpy mainly focuses on boosting privacy, SuperMSConfig takes a broader approach, helping you clean up and optimize different parts of your Windows system. The two apps work great together, with SuperMSConfig handling the overall system management while XD-AntiSpy focuses on privacy.
+SuperMSConfig started out as a simple plugin for [XD-AntiSpy](https://github.com/builtbybel/xd-AntiSpy), but it grew into its own app because it became more complex and feature-packed. While XD-AntiSpy mainly focuses on boosting privacy, SuperMSConfig takes a broader approach, helping you clean up and optimize different parts of your Windows system. The two apps work great together, with SuperMSConfig handling the overall system management while XD-AntiSpy focuses on privacy.
 
 ![explorer_OagMndmk8v](https://github.com/user-attachments/assets/511c3d5e-4411-4d27-b34d-ef36840b2195)
 
