@@ -6,8 +6,8 @@ SuperMSConfig is an advanced and fully automated alternative to the traditional 
 
 SuperMSConfig started out as a simple plugin for [XD-AntiSpy](https://github.com/builtbybel/xd-AntiSpy), but it grew into its own app because it became more complex and feature-packed. While XD-AntiSpy mainly focuses on boosting privacy, SuperMSConfig takes a broader approach, helping you clean up and optimize different parts of your Windows system. The two apps work great together, with SuperMSConfig handling the overall system management while XD-AntiSpy focuses on privacy.
 
-![explorer_OagMndmk8v](https://github.com/user-attachments/assets/511c3d5e-4411-4d27-b34d-ef36840b2195)
 
+![SuperMSConfig_DbAyd1iQea](https://github.com/user-attachments/assets/11428909-e8a6-4278-b5a7-dd8ac54692da)
 
 ## How to Use
 1. **Open** **SuperMSConfig**.
