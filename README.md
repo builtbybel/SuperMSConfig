@@ -1,4 +1,4 @@
-# Super Microsoft Configuration
+# MSConfig Gets Superpowers After 25 Years – Now It's SuperMSConfig 😃
 
 We all know MSConfig, the tool that helps you manage some system settings. SuperMSConfig takes things a step further by automating many of these tasks
 
