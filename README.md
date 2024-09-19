@@ -8,9 +8,10 @@ SuperMSConfig started out as a simple plugin for [XD-AntiSpy](https://github.com
 
 **My plan with SuperMSConfig is to create a dynamic tool that lets you turn almost any online guide, tutorial, or configuration into a shareable template, available for everyone to use. This way, anyone can show off their Super Microsoft configuration setup. 😉**
 
+![explorer_gIyR47ftiF](https://github.com/user-attachments/assets/e5ce9549-16a0-4a14-a84d-384b56b63b7e)
+
 ![explorer_aNAtdoTrzJ](https://github.com/user-attachments/assets/f7906dbc-e937-4ea0-a639-abbdc6cb251a)
-![explorer_5W6wRWsoOB](https://github.com/user-attachments/assets/1cf1d1cb-8147-4fea-8376-d7129517c411)
-![explorer_0KH0vfpW5a](https://github.com/user-attachments/assets/a3414af4-3661-4c78-95dc-98a4594da3ee)
+
 
 
 ## How to Use
