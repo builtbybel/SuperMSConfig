@@ -1,7 +1,5 @@
 # MSConfig Gets Superpowers After 25 Years – Now It's SuperMSConfig 😃
 
-![explorer_QBYEoUhQUw](https://github.com/user-attachments/assets/f96f609a-2fac-4e9b-8cc4-851ba97042f9)
-
 We all know MSConfig, the tool that helps you manage some system settings. SuperMSConfig takes things a step further by automating many of these tasks
 
 SuperMSConfig is an advanced and fully automated alternative to the traditional MSConfig tool, designed specifically for Windows 11. Unlike the classic MSConfig, which focuses on modifying startup parameters or disabling device drivers, SuperMSConfig takes a broader approach as a comprehensive system checker. It scans your system for Windows 11's most annoying configurations and bad habits, such as unwanted services, sneaky startup apps, intrusive browser tweaks, system configurations, unnecessary updates, security settings, ads, and more.
