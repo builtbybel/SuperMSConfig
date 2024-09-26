@@ -2,14 +2,29 @@
 
 We all know MSConfig, the tool that helps you manage some system settings. SuperMSConfig takes things a step further by automating many of these tasks
 
-SuperMSConfig is an advanced and fully automated alternative to the traditional MSConfig tool, designed specifically for Windows 11. Unlike the classic MSConfig, which focuses on modifying startup parameters or disabling device drivers, SuperMSConfig takes a broader approach as a comprehensive system checker. It scans your system for Windows 11's most annoying configurations and bad habits, such as unwanted services, sneaky startup apps, intrusive browser tweaks, system configurations, unnecessary updates, security settings, ads, and more.
+Built specifically for Windows 11, it not only enhances system configuration but also customizes your system right after installation by revisiting the Out-of-Box Experience (OOBE), ensuring your Windows setup starts off perfectly.
 
-SuperMSConfig started out as a simple plugin for [XD-AntiSpy](https://github.com/builtbybel/xd-AntiSpy), but it grew into its own app because it became more complex and feature-packed. While XD-AntiSpy mainly focuses on boosting privacy, SuperMSConfig takes a broader approach, helping you analyse an clean up different parts of your Windows system. The two apps work great together, with SuperMSConfig handling the overall system management while XD-AntiSpy focuses on privacy.
+## What Does SuperMSConfig Do? 🎯
+While MSConfig traditionally allows you to manage startup settings and system drivers, SuperMSConfig goes much further:
+
+- Reconfigures Windows 11 OOBE: SuperMSConfig revisits the out-of-box setup, letting you fine-tune the Windows 11 post-installation experience. Whether it’s disabling intrusive features or optimizing services, it provides full control over how your system behaves immediately after setup.
+
+- Automates MSConfig: It streamlines and automates MSConfig tasks, eliminating the hassle of manual configuration. SuperMSConfig scans your system to detect unnecessary startup apps, services, and system tweaks—cleaning up what slows down your PC.
+
+- Comprehensive System Checker: It checks for Windows 11’s bad habits—unwanted services, sneaky startup programs, intrusive browser settings, system configurations, unwanted updates, security settings, ads, and much more.
+
+## How SuperMSConfig Enhances Windows 11’s OOBE 💻
+Unlike the default Windows 11 setup, which can leave unnecessary features enabled by default, SuperMSConfig revisits the Out-of-Box Experience after installation, giving you control over:
+
+- Disabling annoying ads and unwanted telemetry
+- Tweaking system settings for better performance and privacy
+- **Optimizing configurations that Windows leaves on by default, improving your user experience right from the start**
+
+
+## Origins: Born from XD-AntiSpy 🛡️
+SuperMSConfig began as a simple [XD-AntiSpy](https://github.com/builtbybel/xd-AntiSpy), an app focused on improving privacy. However, it evolved into its own standalone tool with broader system management features. XD-AntiSpy remains a great companion for privacy tweaks, while SuperMSConfig handles the overall system management, making them the perfect duo.
 
 **My plan with SuperMSConfig is to create a dynamic tool that lets you turn almost any online guide, tutorial, or configuration into a shareable template, available for everyone to use. This way, anyone can show off their Super Microsoft configuration setup. 😉**
-
-![explorer_aNAtdoTrzJ](https://github.com/user-attachments/assets/f7906dbc-e937-4ea0-a639-abbdc6cb251a)
-
 
 ## How to Use
 1. **Open** **SuperMSConfig**.
