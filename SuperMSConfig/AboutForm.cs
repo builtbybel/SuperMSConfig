@@ -62,7 +62,7 @@ namespace SuperMSConfig
             }
         }
 
-        // Apply gradient to control
+        // AI generated!! Apply gradient to control
         private void ApplyGradientBackground(object sender, PaintEventArgs e)
         {
             Control control = sender as Control;
