@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("MSCleanupCompanion")]
-[assembly: AssemblyDescription("Windows Cleanup Companion")]
+[assembly: AssemblyDescription("Microsoft Cleanup Companion")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Builtbybel")]
 [assembly: AssemblyProduct("MSCleanupCompanion")]

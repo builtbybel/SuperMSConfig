@@ -22,7 +22,7 @@ namespace MSCleanupCompanion
             return this;
         }
 
-        public string PluginName => "Microsoft Cleaup Companion";
+        public string PluginName => "Microsoft Cleanup Companion";
         public string PluginVersion => "1.0";
         public string PluginInfo => "This Plugin is a powerful tool designed to streamline and optimize your Windows 10/11 experience. With advanced community-driven detection capabilities, this plugin allows you to easily identify and remove unnecessary bloatware, enhancing system performance and freeing up valuable resources.";
 
@@ -61,7 +61,7 @@ namespace MSCleanupCompanion
             // BackColor
             BackColor =
             checkedListBoxApps.BackColor =
-               Color.FromArgb(243, 243, 243);
+               Color.FromArgb(250, 251, 247);
         }
 
         private async void toolDebloaterPageView_Load(object sender, EventArgs e)
@@ -71,7 +71,7 @@ namespace MSCleanupCompanion
 
         private async Task ScanApps()
         {
-            string jsonFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "plugins", "MSCleanupCompanion.json");
+            string jsonFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "plugins\\PluginMSCleanupCompanion", "MSCleanupCompanion.json");
             await LoadAppsFromJson(jsonFilePath);
         }
 
@@ -144,7 +144,7 @@ namespace MSCleanupCompanion
 
         private async Task<bool> IsAppInstalled(string appName)
         {
-            lblStatus.BackColor = Color.Cyan;
+            lblStatus.BackColor = Color.FromArgb(234,240,227);
             lblStatus.TextAlign = ContentAlignment.MiddleCenter;
             bool isInstalled = false;
             try
@@ -247,7 +247,7 @@ namespace MSCleanupCompanion
             else
             {
                 // Load bloatware from JSON db
-                string jsonFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "plugins", "MSCleanupCompanion.json");
+                string jsonFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "plugins\\PluginMSCleanupCompanion", "MSCleanupCompanion.json");
                 await LoadAppsFromJson(jsonFilePath);
             }
         }

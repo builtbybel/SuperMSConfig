@@ -22,3 +22,15 @@ C:\Users\Belim\Desktop\SuperMSConfig\PluginMSNavigator\obj\Debug\PluginMS.60E684
 C:\Users\Belim\Desktop\SuperMSConfig\PluginMSNavigator\obj\Debug\MSNavigator.dll
 C:\Users\Belim\Desktop\SuperMSConfig\PluginMSNavigator\obj\Debug\MSNavigator.pdb
 C:\Users\Belim\Desktop\SuperMSConfig\PluginMSNavigator\obj\Debug\MSNavigator.MSNavigatorPluginControl.resources
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie\PluginMSNavigator\bin\Debug\MSNavigator.dll
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie\PluginMSNavigator\bin\Debug\MSNavigator.pdb
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie\PluginMSNavigator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie\PluginMSNavigator\bin\Debug\PluginInterface.dll
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie\PluginMSNavigator\bin\Debug\PluginInterface.pdb
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie\PluginMSNavigator\obj\Debug\PluginMSNavigator.csproj.AssemblyReference.cache
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie\PluginMSNavigator\obj\Debug\MSNavigator.MSNavigatorPluginControl.resources
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie\PluginMSNavigator\obj\Debug\PluginMSNavigator.csproj.GenerateResource.cache
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie\PluginMSNavigator\obj\Debug\PluginMSNavigator.csproj.CoreCompileInputs.cache
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie\PluginMSNavigator\obj\Debug\PluginMS.60E6847A.Up2Date
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie\PluginMSNavigator\obj\Debug\MSNavigator.dll
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie\PluginMSNavigator\obj\Debug\MSNavigator.pdb

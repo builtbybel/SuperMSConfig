@@ -40,13 +40,15 @@ namespace MSNavigator
             InitializeComponent();
             LoadData();
             BackColor =
+                resultsListBox.BackColor =
                 resultsTextBox.BackColor = 
                 Color.FromArgb(251, 242, 244);
+            lblInfo.Text = PluginInfo;
         }
 
         private void LoadData()
         {
-            string jsonFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "plugins", "MSNavigator.json");
+            string jsonFilePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "plugins\\PluginMSNavigator", "MSNavigator.json");
             string json = File.ReadAllText(jsonFilePath);
             items = JsonConvert.DeserializeObject<List<Item>>(json);
         }
@@ -248,11 +250,6 @@ namespace MSNavigator
                     resultsTextBox.Text = $"Exception: {ex.Message}";
                 }));
             }
-        }
-
-        private void settingsToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            ShowPluginInfo();
         }
 
         private void newChatToolStripMenuItem_Click(object sender, EventArgs e)

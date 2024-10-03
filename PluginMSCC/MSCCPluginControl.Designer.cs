@@ -28,12 +28,13 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.lblStatus = new System.Windows.Forms.Label();
             this.btnRemoveSelected = new System.Windows.Forms.Button();
             this.checkedListBoxApps = new System.Windows.Forms.CheckedListBox();
             this.textBoxSearch = new System.Windows.Forms.TextBox();
             this.mdlMenu = new System.Windows.Forms.Button();
-            this.contextMenu = new System.Windows.Forms.ContextMenuStrip();
+            this.contextMenu = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.scanAgainToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.selectAllToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.installedToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -50,7 +51,7 @@
             this.lblStatus.AutoEllipsis = true;
             this.lblStatus.BackColor = System.Drawing.Color.PaleGreen;
             this.lblStatus.Font = new System.Drawing.Font("Segoe UI Variable Small Semibol", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblStatus.Location = new System.Drawing.Point(2, 77);
+            this.lblStatus.Location = new System.Drawing.Point(3, 97);
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Size = new System.Drawing.Size(418, 21);
             this.lblStatus.TabIndex = 0;
@@ -61,11 +62,12 @@
             this.btnRemoveSelected.AutoEllipsis = true;
             this.btnRemoveSelected.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.btnRemoveSelected.FlatAppearance.BorderSize = 0;
-            this.btnRemoveSelected.Font = new System.Drawing.Font("Segoe UI Variable Small Semibol", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRemoveSelected.Font = new System.Drawing.Font("Segoe UI Variable Small", 10.75F);
             this.btnRemoveSelected.Location = new System.Drawing.Point(0, 464);
             this.btnRemoveSelected.Name = "btnRemoveSelected";
             this.btnRemoveSelected.Size = new System.Drawing.Size(423, 28);
             this.btnRemoveSelected.TabIndex = 198;
+            this.btnRemoveSelected.TabStop = false;
             this.btnRemoveSelected.Text = "Remove selected apps";
             this.btnRemoveSelected.UseCompatibleTextRendering = true;
             this.btnRemoveSelected.UseVisualStyleBackColor = true;
@@ -78,11 +80,11 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.checkedListBoxApps.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.checkedListBoxApps.CheckOnClick = true;
-            this.checkedListBoxApps.Font = new System.Drawing.Font("Segoe UI Variable Text Light", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.checkedListBoxApps.Font = new System.Drawing.Font("Segoe UI Variable Small Semilig", 9.75F);
             this.checkedListBoxApps.FormattingEnabled = true;
-            this.checkedListBoxApps.Location = new System.Drawing.Point(0, 101);
+            this.checkedListBoxApps.Location = new System.Drawing.Point(0, 121);
             this.checkedListBoxApps.Name = "checkedListBoxApps";
-            this.checkedListBoxApps.Size = new System.Drawing.Size(422, 330);
+            this.checkedListBoxApps.Size = new System.Drawing.Size(422, 340);
             this.checkedListBoxApps.Sorted = true;
             this.checkedListBoxApps.TabIndex = 199;
             // 
@@ -90,7 +92,7 @@
             // 
             this.textBoxSearch.BackColor = System.Drawing.Color.White;
             this.textBoxSearch.Font = new System.Drawing.Font("Segoe UI Variable Text Semiligh", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBoxSearch.Location = new System.Drawing.Point(17, 45);
+            this.textBoxSearch.Location = new System.Drawing.Point(18, 54);
             this.textBoxSearch.Multiline = true;
             this.textBoxSearch.Name = "textBoxSearch";
             this.textBoxSearch.Size = new System.Drawing.Size(95, 21);
@@ -108,11 +110,11 @@
             this.mdlMenu.FlatAppearance.BorderColor = System.Drawing.SystemColors.Control;
             this.mdlMenu.FlatAppearance.BorderSize = 0;
             this.mdlMenu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.mdlMenu.Font = new System.Drawing.Font("Segoe MDL2 Assets", 12F);
+            this.mdlMenu.Font = new System.Drawing.Font("Segoe MDL2 Assets", 13F, System.Drawing.FontStyle.Bold);
             this.mdlMenu.ForeColor = System.Drawing.Color.Black;
-            this.mdlMenu.Location = new System.Drawing.Point(345, 0);
+            this.mdlMenu.Location = new System.Drawing.Point(390, 12);
             this.mdlMenu.Name = "mdlMenu";
-            this.mdlMenu.Size = new System.Drawing.Size(29, 26);
+            this.mdlMenu.Size = new System.Drawing.Size(30, 28);
             this.mdlMenu.TabIndex = 247;
             this.mdlMenu.Text = "...";
             this.mdlMenu.UseVisualStyleBackColor = false;
@@ -167,9 +169,11 @@
             // 
             // lblHeaderInfo
             // 
-            this.lblHeaderInfo.AutoSize = true;
+            this.lblHeaderInfo.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.lblHeaderInfo.AutoEllipsis = true;
             this.lblHeaderInfo.Font = new System.Drawing.Font("Segoe UI Variable Text", 16.25F, System.Drawing.FontStyle.Bold);
-            this.lblHeaderInfo.Location = new System.Drawing.Point(12, 0);
+            this.lblHeaderInfo.Location = new System.Drawing.Point(7, 14);
             this.lblHeaderInfo.Name = "lblHeaderInfo";
             this.lblHeaderInfo.Size = new System.Drawing.Size(327, 30);
             this.lblHeaderInfo.TabIndex = 248;

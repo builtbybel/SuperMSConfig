@@ -10,3 +10,9 @@ C:\Users\Belim\Desktop\SuperMSConfig\PluginInterface\obj\Debug\PluginInterface.c
 C:\Users\Belim\Desktop\SuperMSConfig\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
 C:\Users\Belim\Desktop\SuperMSConfig\PluginInterface\obj\Debug\PluginInterface.dll
 C:\Users\Belim\Desktop\SuperMSConfig\PluginInterface\obj\Debug\PluginInterface.pdb
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie - Kopie\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie - Kopie\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie - Kopie\PluginInterface\obj\Debug\PluginInterface.csproj.AssemblyReference.cache
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie - Kopie\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie - Kopie\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\Belim\Desktop\SuperMSConfig - Kopie - Kopie\PluginInterface\obj\Debug\PluginInterface.pdb
