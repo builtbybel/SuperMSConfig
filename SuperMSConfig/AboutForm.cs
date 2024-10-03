@@ -72,7 +72,7 @@ namespace SuperMSConfig
                 // Create rectangle that matches the control's size
                 Rectangle controlRect = control.ClientRectangle;
 
-                // Create a LinearGradientBrush with multiple colors (adjust based on your image)
+                // Create LinearGradientBrush with multiple colorss
                 using (LinearGradientBrush brush = new LinearGradientBrush(controlRect, Color.Empty, Color.Empty, 45f))
                 {
                     // Color blend to create a multi-color gradient
@@ -86,7 +86,7 @@ namespace SuperMSConfig
                     Color.FromArgb(255, 250, 230, 240)  // Soft Red
                     };
 
-                    // Positions for each color in the gradient (0 to 1 scale)
+                    // Positions for each color in the gradient
                     colorBlend.Positions = new float[] { 0f, 0.25f, 0.5f, 0.75f, 1f };
                     brush.InterpolationColors = colorBlend;
 
