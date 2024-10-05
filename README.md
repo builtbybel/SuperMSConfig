@@ -4,7 +4,7 @@ We all know MSConfig, the tool that helps you manage some system settings. Super
 
 Built specifically for Windows 11, it not only enhances system configuration but also customizes your system right after installation by revisiting the Out-of-Box Experience (OOBE), ensuring your Windows setup starts off perfectly.
 
-![explorer_W7cPChNiyo](https://github.com/user-attachments/assets/f6d6e64d-807a-429c-a25b-97bcb4c45d29)
+![explorer_c0xjhh3YSq](https://github.com/user-attachments/assets/1b553715-c4bf-44d6-84ad-47a2475b7266)
 
 ## What Does SuperMSConfig Do? 🎯
 While MSConfig traditionally allows you to manage startup settings and system drivers, SuperMSConfig goes much further:
