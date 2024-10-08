@@ -25,7 +25,7 @@ Unlike the default Windows 11 setup, which can leave unnecessary features enable
 
 
 ## Origins: Born from XD-AntiSpy 🛡️
-SuperMSConfig began as a simple [XD-AntiSpy](https://github.com/builtbybel/xd-AntiSpy), an app focused on improving privacy. However, it evolved into its own standalone tool with broader system management features. XD-AntiSpy remains a great companion for privacy tweaks, while SuperMSConfig handles the overall system management, making them the perfect duo.
+SuperMSConfig began as a simple [XD-AntiSpy](https://github.com/builtbybel/xd-AntiSpy) Plugin , an app focused on improving privacy. However, it evolved into its own standalone tool with broader system management features. XD-AntiSpy remains a great companion for privacy tweaks, while SuperMSConfig handles the overall system management, making them the perfect duo.
 
 **My plan with SuperMSConfig is to create a dynamic tool that lets you turn almost any online guide, tutorial, or configuration into a shareable template, available for everyone to use. This way, anyone can show off their Super Microsoft configuration setup. 😉**
 
