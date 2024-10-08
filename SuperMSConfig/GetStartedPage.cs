@@ -29,7 +29,7 @@ namespace SuperMSConfig
 
         private string[] stepsHeader = new[]
   {
-            "Welcome to the new era of System Configuration",
+            "Welcome",
             "Step 1: Let's customize your experience",
             "Step 2: Review the results",
             "Step 3: Load additional tweaks"
